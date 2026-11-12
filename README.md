@@ -43,21 +43,16 @@ A Java application that converts an amount from one currency to another.
 ## Project Structure
 
 ```text
-CodSoft-Java-Internship/
+CodSoft
 │
-├── Task1_NumberGame/
-│   └── NumberGame.java
+├──  NumberGame.java
 │
-├── Task2_StudentGradeCalculator/
-│   └── StudentGradeCalculator.java
+├──  README.md
 │
-├── Task3_CurrencyConverter/
-│   └── CurrencyConverter.java
+├── CurrencyConverter.java
 │
-└── README.md
+├── StudentGradeCalculator.java
 ```
-
-*Update the folder and file names above to match your actual repository.*
 
 ## How to Run
 
